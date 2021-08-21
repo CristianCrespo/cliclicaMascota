@@ -1,0 +1,16 @@
+.user-list{
+    padding: 20px 0;
+    border-top: 1px solid #f1f1f2;
+    border-bottom: 1px solid #f1f1f2;
+    margin-bottom: 20px ;
+}
+:link{
+    padding: 1px 1px 1px 1px;
+}
+strong{
+    color: black;
+}
+img{
+    height: 130px;
+    width: 130px;
+}
